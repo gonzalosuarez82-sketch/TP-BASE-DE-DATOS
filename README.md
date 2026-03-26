@@ -1,12 +1,10 @@
 # Proyecto Final Integrador - Herramientas básicas para el Análisis de Datos
 
-## Autor
-Nombre Apellido  
+Suárez Gonzlo
 Curso: Herramientas básicas para el Análisis de Datos  
-Cohorte: 2026  
+  
 
 ---
-
 ## Objetivo
 Este proyecto busca analizar la evolución de las **ventas minoristas entre 2019 y 2024**, integrando Python (pandas, matplotlib, seaborn), Power BI y GitHub en un flujo end-to-end.  
 La pregunta principal es:  
@@ -19,7 +17,7 @@ Subpregunta/KPI:
 
 ## Dataset
 - **Fuente:** Kaggle – *Retail Sales Dataset* (Linda Lang’at)  
-- **Enlace:** [Retail Sales Dataset en Kaggle](https://www.kaggle.com/datasets/lindalangat/retail-sales-dataset)  
+- **Enlace:** (https://www.kaggle.com/datasets/lindacheruto/retail-sales-dataset?utm_source=copilot.com) 
 - **Tamaño:** ~1M registros, 12 columnas.  
 - **Variables principales:** Fecha, Categoría, Canal (online/físico), Monto de venta, Región, Cliente, Método de pago.  
 
